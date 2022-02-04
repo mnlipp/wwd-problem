@@ -2,7 +2,5 @@
 .metadata/
 .recommenders/
 /build/
-**/.project
-**/.classpath
 **/org.eclipse.jdt.core.prefs
 /node_modules/
